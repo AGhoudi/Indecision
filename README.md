@@ -1,10 +1,3 @@
-
-## __Lien web du projet :__
-
-Voici un lien pour tester l'application:
-
-https://hardcore-ptolemy-55d8cd.netlify.app/
-
 <div align=center><img src="https://user-images.githubusercontent.com/27373255/133509192-6ff1ada4-484e-46cd-8d74-075c044d82b4.png" alt="Indecision"/></div>
 <h2 align=center>🎯 Objectif du projet :</h2>
 <p align=center>Il s'agissait de continuer à apprendre react via un cours udemy.</p>
