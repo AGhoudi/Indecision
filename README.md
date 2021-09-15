@@ -1,8 +1,4 @@
 
-## __Stack utilisé :__
-
-HTML - SASS - Javascript - React
-
 ## __Lien web du projet :__
 
 Voici un lien pour tester l'application:
