@@ -1,6 +1,4 @@
 
-[![indecision.jpg](https://i.postimg.cc/CxfKkpf3/indecision.jpg)](https://postimg.cc/JsMmCgxx)
-
 ## __Stack utilisé :__
 
 HTML - SASS - Javascript - React
