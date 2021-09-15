@@ -1,7 +1,3 @@
-
-## __Objectif du projet :__ 
-Continuer à apprendre react via un cours udemy
-
 ## __Description :__
 
 Il s'agit d'une application qui permet de prendre des décisions via un programme aléatoire.
@@ -24,7 +20,7 @@ https://hardcore-ptolemy-55d8cd.netlify.app/
 
 <div align=center><img src="https://user-images.githubusercontent.com/27373255/133509192-6ff1ada4-484e-46cd-8d74-075c044d82b4.png" alt="Indecision"/></div>
 <h2 align=center>🎯 Objectif du projet :</h2>
-<p align=center>Il s'agissait de créer un jeu de memory game, en utilisant le langage javascript.</p>
+<p align=center>Il s'agissait de continuer à apprendre react via un cours udemy.</p>
 
 <h2 align=center>📝 Description :</h2>
 
