@@ -1,3 +1,4 @@
+![indecision](https://user-images.githubusercontent.com/27373255/133509192-6ff1ada4-484e-46cd-8d74-075c044d82b4.png)
 # Indecision
 
 ## __Objectif du projet :__ 
