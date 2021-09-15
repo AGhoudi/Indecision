@@ -1,5 +1,3 @@
-![indecision](https://user-images.githubusercontent.com/27373255/133509192-6ff1ada4-484e-46cd-8d74-075c044d82b4.png)
-# Indecision
 
 ## __Objectif du projet :__ 
 Continuer à apprendre react via un cours udemy
@@ -44,6 +42,6 @@ Il y a un nombre de paires de cartes, une fois qu'on les à toutes trouvées, le
 
 <h2 align=center>🌐 Lien web du projet :</h2>
 
-<p align=center>Voici un lien pour tester le jeu:
+<p align=center>Voici un lien pour tester l'application:
 
-  <a title="https://codepen.io/Link1986/pen/ZmoWqL" role="link" target="_blank" class="text-bold" rel="noopener noreferrer" href="https://codepen.io/Link1986/pen/ZmoWqL">codepen.io/link1986/pen/zmowql</a></p>
+  <a title="https://hardcore-ptolemy-55d8cd.netlify.app/" role="link" target="_blank" class="text-bold" rel="noopener noreferrer" href="https://hardcore-ptolemy-55d8cd.netlify.app/">https://hardcore-ptolemy-55d8cd.netlify.app/</a></p>
