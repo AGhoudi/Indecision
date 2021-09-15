@@ -24,7 +24,7 @@ Voici un lien pour tester l'application:
 
 https://hardcore-ptolemy-55d8cd.netlify.app/
 
-<div align=center><img src="https://user-images.githubusercontent.com/27373255/131180724-f4b371b2-087a-4067-87bf-7550af64d3f5.png" alt="memory-game"/></div>
+<div align=center><img src="https://user-images.githubusercontent.com/27373255/133509192-6ff1ada4-484e-46cd-8d74-075c044d82b4.png" alt="Indecision"/></div>
 <h2 align=center>🎯 Objectif du projet :</h2>
 <p align=center>Il s'agissait de créer un jeu de memory game, en utilisant le langage javascript.</p>
 
